@@ -1,0 +1,14 @@
+.inputToDo{
+    position: relative;
+    outline: none;
+    text-align: center;
+    border-radius: 2%;
+    border: none;
+    background-color: #EAD196;
+    border-radius: 30px;
+    color:#BF3131;
+    padding: 0.4rem;
+    width: 90rem;
+    height: 3rem;
+    margin: 2rem;
+}
